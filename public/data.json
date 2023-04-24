@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "id": 1001,
+      "title": "Shrimp bowl",
+      "description": "A 25 pound bag of <em>irressitible</em>organic goodness for your cat.",
+      "price": 2000,
+      "image": "./img/shrimpbowl.jpeg",
+      "outOfStock": true,
+      "stock": 5
+    },
+    {
+      "id": 1002,
+      "title": "Sesame Bowl",
+      "description": "A 25 pound bag of <em>irressitible</em>organic goodness for your cat.",
+      "price": 2000,
+      "image": "./img/sesame.jpeg",
+      "outOfStock": false,
+      "stock": 5
+    },
+    {
+      "id": 1003,
+      "title": "Caesar Salad",
+      "description": "A 25 pound bag of <em>irressitible</em>organic goodness for your cat.",
+      "price": 2000,
+      "image": "./img/caesar.jpeg",
+      "outOfStock": false,
+      "stock": 5
+    },
+    {
+      "id": 1004,
+      "title": "Venezuelan Empanadas",
+      "description": "A 25 pound bag of <em>irressitible</em>organic goodness for your cat.",
+      "price": 2000,
+      "image": "./img/empanadas.jpeg",
+      "outOfStock": false,
+      "stock": 2
+    },
+    {
+      "id": 1005,
+      "title": "Roasted Broccoli",
+      "description": "A 25 pound bag of <em>irressitible</em>organic goodness for your cat.",
+      "price": 2000,
+      "image": "./img/broccoli.jpeg",
+      "outOfStock": false,
+      "stock": 5
+    }
+  ]
+}
